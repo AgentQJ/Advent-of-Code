@@ -1,4 +1,3 @@
-print('hello')
 ### Grab the txt file of the numbers
 inputFile = open('AOC-01.txt')
 ### Reads the lines and makes input equal to it
