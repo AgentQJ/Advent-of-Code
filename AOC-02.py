@@ -8,6 +8,7 @@ for i in input:
     line=i.strip()
     mainList.append(line)
 #print(mainList)
+## sorting code\
 
 def test(testCase):
     runs = 0
